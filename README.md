@@ -10,7 +10,7 @@ epub弹窗注释脚本，适用于桌面端epub阅读器，鼠标指针移动到
 
 在```<head>```标签下添加```<script type="text/javascript" src="../Misc/popup-footnote.min.js"></script>```
 
-在注释链接中添加```class=“footnote-link”```
+在注释链接中添加```class="footnote-link"```
 
 在css中添加
 ```css
