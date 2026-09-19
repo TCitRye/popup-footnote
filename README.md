@@ -63,20 +63,20 @@ aside p {
 }
 
 .popup.is-shown {
-  display: block;
-  visibility: visible;
+    display: block;
+    visibility: visible;
 }
 
 .popup.is-hiding {
-  display: block;
-  visibility: visible;
-  animation: fade 0.3s 1 forwards;
-  -webkit-animation: fade 0.3s 1 forwards;
+    display: block;
+    visibility: visible;
+    animation: fade 0.3s 1 forwards;
+    -webkit-animation: fade 0.3s 1 forwards;
 }
 
 .popup.is-visible {
-  animation: show 0.3s 1 forwards;
-  -webkit-animation: show 0.3s 1 forwards;
+    animation: show 0.3s 1 forwards;
+    -webkit-animation: show 0.3s 1 forwards;
 }
 
 @-webkit-keyframes show {
